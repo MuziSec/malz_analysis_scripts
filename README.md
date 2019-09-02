@@ -1,12 +1,5 @@
 # malz_analysis_scripts
 
-# Random scripts I've made while doing malware analysis.
-
-
-Garbage, hacked together scripts that I've written to help do malware analysis. I make no guarantees these will work on your system! Use at your own risk! Feel free to use these however you see fit!
-
-
-
 
 ## Scripts and Usages
 
